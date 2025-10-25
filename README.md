@@ -4,3 +4,4 @@ that predicts whether a customer will churn (leave the bank) based on their demo
 
 we will not handle the outliers in this data the reason is this is bank data and many users whose age is more than 80 then high chance that they will churn.
 
+
